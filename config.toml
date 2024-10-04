@@ -1,0 +1,17 @@
+[client]
+showSidebarNavigation = false
+
+[server]
+# Max size, in megabytes, for files uploaded with the file_uploader.
+# Default: 200
+maxUploadSize = 100
+
+[theme]
+primaryColor="#FF6723"
+backgroundColor="#FDFFE7"
+secondaryBackgroundColor="#00D6E2"
+textColor="#0F005C"
+font="sans serif"
+
+[deprecation]
+showPyplotGlobalUse = false
