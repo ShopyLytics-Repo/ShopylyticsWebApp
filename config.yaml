@@ -1,0 +1,29 @@
+cookie:
+  expiry_days: 1
+  key: shopylytics_third_eye
+  name: shopylytics_third_eye_key
+credentials:
+  usernames:
+    shopylytics:
+      email: info@shopylytics.com
+      logged_in: false
+      name: Arun Mathur
+      password: shopylytics@123
+    marun:
+      email: mathur.arunmathur@gmail.com
+      logged_in: false
+      name: Arun Mathur
+      password: marun@123
+    Demo:
+      email: mathur.arunmathur@gmail.com
+      logged_in: false
+      name: Demo User
+      password: Demo@123
+    Ato:
+      email: ato.micah@maverick-research.com
+      logged_in: false
+      name: Ato Micah
+      password: Micah@123
+preauthorized:
+  emails:
+  - shopylytics@gmail.com

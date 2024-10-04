@@ -1,0 +1,5 @@
+﻿1,Did You Find The Shop,Yes_No,Shop_Find,Yes
+2,Is Shop Opned,Yes_No,Shop_Opened,No
+3,No_Reason,Text,No_Reason,No
+4,Shopkeer Allowed the Survay,Yes_No,Survay_Allowed,No
+5,What is his daily Sale,Numeric,Daily_Sale,No
